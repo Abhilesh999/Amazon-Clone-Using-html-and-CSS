@@ -29,3 +29,9 @@ measurementId: "",
 STEP 5
 Run -- npm start (Make sure You run this in the root directory of the project folder)
    npm start
+
+
+Technologies used :
+HTML
+CSS
+JAVASCRIPT
