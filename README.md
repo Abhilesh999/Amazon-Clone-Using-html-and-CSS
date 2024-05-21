@@ -8,7 +8,7 @@ react-bootstrap
 Installation Guidlines
 STEP 1
 Clone this Repository
- git clone https://github.com/payalpatra/Amazon-Clone.git
+ t
 STEP 2
 Run -- Npm install
  npm install
