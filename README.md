@@ -1,13 +1,12 @@
 Amazon-Clone
 This is basically a clone of the well-known E-commerce website Amazon. It uses Firebase for User Authentication.
+
 What's Special about this Build ?
 Well, I used 3 different styling techniques to design its different Components.
 Css for most of the components
-react-styled-components for the footer
-react-bootstrap
+react-styled-components for the footer react-bootstrap
 Installation Guidlines
-STEP 1
-Clone this Repository
+STEP 1  Clone this Repository
  t
 STEP 2
 Run -- Npm install
